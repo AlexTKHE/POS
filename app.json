@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "POS",
+    "slug": "pos",
+    "scheme": "pos",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
